@@ -2,7 +2,7 @@ Hi, I’m Govind.
  I’m interested in Software Development,Web Development.
  I’m currently learning Reactjs.
 
-Email:- govind.singh.offiiciial@gmail.com
+Email:- govindsinghofficial12@gmail.com
 
 
 <!---
